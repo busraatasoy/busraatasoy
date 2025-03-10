@@ -12,7 +12,7 @@
 - ⚡ **I am a passionate person who loves to learn and improve myself.**
 
 ### 📌Blogs posts:
-[👉My Last Post:](https://medium.com/learning-data/exercise-analysis-with-power-bi-excel-fb4d5030354c)
+[👉My Last Post:](https://medium.com/learning-data/sales-analysis-with-sql-power-bi-️-3c5290b4cdfa)
 
 
 <h3 align="left">Connect with me:</h3>
