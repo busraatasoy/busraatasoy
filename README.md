@@ -57,5 +57,11 @@
 <!-- Seaborn -->
 <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
   <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="70"  height="70">
+<!-- Matplotlib -->
+<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+  <img src="https://matplotlib.org/stable/_static/logo_light.svg" alt="Matplotlib" width="70"  height="70">
+<!-- Scikit-Learn -->
+<a href="https://scikit-learn.org/stable/" target="_blank" rel="noreferrer">
+  <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" alt="Scikit-Learn" width="60"  height="60">
 </a></p>
 
