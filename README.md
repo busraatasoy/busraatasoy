@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Busra Atasoy!</h1>
-<h3 align="center">An Data Analyst with a background in OPEX Specialist.👩‍💻</h3>
+<h3 align="center">An Data Analyst with a background in OPEX Senior Expert. 👩‍💻</h3>
 
 - 👨‍💻 All of my projects are available at: **[My Portfolio Links:](https://linktr.ee/busraatasoy)**
 
